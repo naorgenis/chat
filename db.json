@@ -1,0 +1,16 @@
+{
+  "filters": [
+    {
+      "word": "test",
+      "id": 1
+    },
+    {
+      "word": "banana",
+      "id": 2
+    },
+    {
+      "word": "ok",
+      "id": 3
+    }
+  ]
+}

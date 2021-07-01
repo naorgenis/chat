@@ -1,0 +1,12 @@
+div.chat {
+  padding: 30px;
+  width: 100%;
+}
+
+div.main-container {
+  padding: 50px;
+}
+
+div.logoutBtn {
+  margin-left: 150px;
+}

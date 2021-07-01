@@ -1,0 +1,24 @@
+.messagesList {
+  list-style-type: none;
+}
+
+.form {
+  text-align: center;
+}
+
+.filtered-list {
+  width: 200px;
+  height: 300px;
+  margin-left: 20%;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+  overflow: auto;
+}
+
+.chat-container {
+  border-color: white;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 20px;
+}
